@@ -1,0 +1,2106 @@
+***It will look like this***
+Grab1
+Webhook
+ — Today at 5:20 PM
+The system information is attached.
+
+  TCP    0.0.0.0:135            0.0.0.0:0              LISTENING       900
+  TCP    0.0.0.0:445            0.0.0.0:0              LISTENING       4
+  TCP    0.0.0.0:5040           0.0.0.0:0              LISTENING       2208
+  TCP    0.0.0.0:49664          0.0.0.0:0              LISTENING       668
+  TCP    0.0.0.0:49665          0.0.0.0:0              LISTENING       540
+  TCP    0.0.0.0:49666          0.0.0.0:0              LISTENING       1412
+  TCP    0.0.0.0:49667          0.0.0.0:0              LISTENING       1840
+  TCP    0.0.0.0:49669          0.0.0.0:0              LISTENING       2700
+  TCP    0.0.0.0:49672          0.0.0.0:0              LISTENING       648
+  TCP    10.0.2.15:139          0.0.0.0:0              LISTENING       4
+  TCP    [::]:135               [::]:0                 LISTENING       900
+  TCP    [::]:445               [::]:0                 LISTENING       4
+  TCP    [::]:49664             [::]:0                 LISTENING       668
+  TCP    [::]:49665             [::]:0                 LISTENING       540
+  TCP    [::]:49666             [::]:0                 LISTENING       1412
+  TCP    [::]:49667             [::]:0                 LISTENING       1840
+  TCP    [::]:49669             [::]:0                 LISTENING       2700
+  TCP    [::]:49672             [::]:0                 LISTENING       648
+
+Windows IP Configuration
+
+   Host Name . . . . . . . . . . . . : DESKTOP-CVPQ36H
+   Primary Dns Suffix  . . . . . . . : 
+   Node Type . . . . . . . . . . . . : Hybrid
+   IP Routing Enabled. . . . . . . . : No
+   WINS Proxy Enabled. . . . . . . . : No
+   DNS Suffix Search List. . . . . . : modem
+
+Ethernet adapter Ethernet:
+
+   Connection-specific DNS Suffix  . : modem
+   Description . . . . . . . . . . . : Intel(R) PRO/1000 MT Desktop Adapter
+   Physical Address. . . . . . . . . : 08-00-27-DF-D0-47
+   DHCP Enabled. . . . . . . . . . . : Yes
+   Autoconfiguration Enabled . . . . : Yes
+   IPv6 Address. . . . . . . . . . . : fd00::be5b:5493:2b7c:562f(Preferred) 
+   Temporary IPv6 Address. . . . . . : fd00::8d3b:bf46:7d4b:f48e(Preferred) 
+   Link-local IPv6 Address . . . . . : fe80::6f35:8666:2b83:c800%5(Preferred) 
+   IPv4 Address. . . . . . . . . . . : 10.0.2.15(Preferred) 
+   Subnet Mask . . . . . . . . . . . : 255.255.255.0
+   Lease Obtained. . . . . . . . . . : Monday, January 20, 2025 12:25:59 AM
+   Lease Expires . . . . . . . . . . : Tuesday, January 21, 2025 12:26:14 PM
+   Default Gateway . . . . . . . . . : fe80::2%5
+                                       10.0.2.2
+   DHCP Server . . . . . . . . . . . : 10.0.2.2
+   DHCPv6 IAID . . . . . . . . . . . : 101187623
+   DHCPv6 Client DUID. . . . . . . . : 00-01-00-01-2F-20-B7-EE-08-00-27-DF-D0-47
+   DNS Servers . . . . . . . . . . . : 10.0.2.3
+   NetBIOS over Tcpip. . . . . . . . : Enabled
+
+Host Name:                 DESKTOP-CVPQ36H
+OS Name:                   Microsoft Windows 10 Pro
+OS Version:                10.0.19045 N/A Build 19045
+OS Manufacturer:           Microsoft Corporation
+OS Configuration:          Standalone Workstation
+OS Build Type:             Multiprocessor Free
+Registered Owner:          ReaperNet
+Registered Organization:   
+Product ID:                00330-80000-00000-AA630
+Original Install Date:     1/20/2025, 12:27:32 AM
+System Boot Time:          1/20/2025, 12:25:04 AM
+System Manufacturer:       innotek GmbH
+System Model:              VirtualBox
+System Type:               x64-based PC
+Processor(s):              1 Processor(s) Installed.
+                           [01]: Intel64 Family 6 Model 58 Stepping 9 GenuineIntel ~3511 Mhz
+BIOS Version:              innotek GmbH VirtualBox, 12/1/2006
+Windows Directory:         C:\Windows
+System Directory:          C:\Windows\system32
+Boot Device:               \Device\HarddiskVolume1
+System Locale:             en-us;English (United States)
+Input Locale:              en-us;English (United States)
+Time Zone:                 (UTC-08:00) Pacific Time (US & Canada)
+Total Physical Memory:     5,589 MB
+Available Physical Memory: 2,329 MB
+Virtual Memory: Max Size:  7,189 MB
+Virtual Memory: Available: 4,184 MB
+Virtual Memory: In Use:    3,005 MB
+Page File Location(s):     C:\pagefile.sys
+Domain:                    WORKGROUP
+Logon Server:              \\WIN-S31BL3B0JSE
+Hotfix(s):                 7 Hotfix(s) Installed.
+                           [01]: KB5031988
+                           [02]: KB5011048
+                           [03]: KB5015684
+                           [04]: KB5033372
+                           [05]: KB5014032
+                           [06]: KB5032907
+                           [07]: KB5050388
+Network Card(s):           1 NIC(s) Installed.
+                           [01]: Intel(R) PRO/1000 MT Desktop Adapter
+                                 Connection Name: Ethernet
+                                 DHCP Enabled:    Yes
+                                 DHCP Server:     10.0.2.2
+                                 IP address(es)
+                                 [01]: 10.0.2.15
+                                 [02]: fe80::6f35:8666:2b83:c800
+                                 [03]: fd00::8d3b:bf46:7d4b:f48e
+                                 [04]: fd00::be5b:5493:2b7c:562f
+Hyper-V Requirements:      A hypervisor has been detected. Features required for Hyper-V will not be displayed.
+System Boot Time:          1/20/2025, 12:25:04 AM
+
+Image Name                     PID Session Name        Session#    Mem Usage
+========================= ======== ================ =========== ============
+System Idle Process              0 Services                   0          8 K
+System                           4 Services                   0        148 K
+Registry                        92 Services                   0     38,556 K
+smss.exe                       332 Services                   0      1,056 K
+csrss.exe                      432 Services                   0      5,324 K
+wininit.exe                    540 Services                   0      6,664 K
+services.exe                   648 Services                   0      9,564 K
+lsass.exe                      668 Services                   0     26,284 K
+svchost.exe                    780 Services                   0     32,824 K
+fontdrvhost.exe                812 Services                   0      3,140 K
+svchost.exe                    900 Services                   0     17,460 K
+svchost.exe                    948 Services                   0      8,196 K
+svchost.exe                    396 Services                   0      4,592 K
+svchost.exe                    768 Services                   0      6,400 K
+svchost.exe                   1048 Services                   0      7,304 K
+svchost.exe                   1168 Services                   0      8,500 K
+svchost.exe                   1220 Services                   0     17,028 K
+svchost.exe                   1288 Services                   0     28,528 K
+svchost.exe                   1332 Services                   0     20,552 K
+svchost.exe                   1412 Services                   0     17,468 K
+svchost.exe                   1504 Services                   0      7,452 K
+svchost.exe                   1528 Services                   0      7,840 K
+svchost.exe                   1580 Services                   0     12,288 K
+svchost.exe                   1704 Services                   0     10,464 K
+svchost.exe                   1760 Services                   0      6,196 K
+svchost.exe                   1832 Services                   0      5,532 K
+svchost.exe                   1840 Services                   0     16,444 K
+svchost.exe                   1848 Services                   0      8,360 K
+svchost.exe                   1872 Services                   0     10,748 K
+svchost.exe                   1940 Services                   0     23,864 K
+svchost.exe                   2180 Services                   0     12,344 K
+svchost.exe                   2248 Services                   0     99,252 K
+svchost.exe                   2256 Services                   0      8,036 K
+svchost.exe                   2400 Services                   0      7,988 K
+svchost.exe                   2420 Services                   0     10,136 K
+svchost.exe                   2472 Services                   0     19,956 K
+svchost.exe                   2480 Services                   0     10,696 K
+svchost.exe                   2488 Services                   0      9,836 K
+svchost.exe                   2588 Services                   0     13,872 K
+Memory Compression            2612 Services                   0     78,760 K
+spoolsv.exe                   2700 Services                   0     24,420 K
+svchost.exe                   2780 Services                   0     18,276 K
+svchost.exe                   2876 Services                   0      8,460 K
+svchost.exe                   1612 Services                   0     27,260 K
+svchost.exe                   2528 Services                   0     43,672 K
+svchost.exe                   2560 Services                   0     23,028 K
+svchost.exe                    440 Services                   0      6,020 K
+svchost.exe                   2352 Services                   0     21,484 K
+svchost.exe                   3160 Services                   0      5,724 K
+svchost.exe                   3208 Services                   0     10,676 K
+svchost.exe                   3252 Services                   0     20,424 K
+svchost.exe                   3332 Services                   0     11,244 K
+SearchIndexer.exe             3668 Services                   0     33,272 K
+svchost.exe                   4020 Services                   0      7,584 K
+svchost.exe                   1640 Services                   0     22,432 K
+svchost.exe                   2208 Services                   0     18,456 K
+MicrosoftEdgeUpdate.exe       3192 Services                   0      4,952 K
+svchost.exe                   4912 Services                   0     10,480 K
+SgrmBroker.exe                5260 Services                   0      7,096 K
+svchost.exe                   5396 Services                   0     14,940 K
+svchost.exe                   5312 Services                   0     26,500 K
+svchost.exe                   5560 Services                   0      9,844 K
+svchost.exe                   3860 Services                   0     15,052 K
+svchost.exe                   3116 Services                   0     10,772 K
+csrss.exe                     1356 Console                    2      5,688 K
+winlogon.exe                  2224 Console                    2     10,480 K
+fontdrvhost.exe               4904 Console                    2      5,228 K
+dwm.exe                       2148 Console                    2     69,148 K
+sihost.exe                    3784 Console                    2     29,968 K
+svchost.exe                   1064 Console                    2     21,088 K
+svchost.exe                   3460 Console                    2     51,536 K
+svchost.exe                   2524 Services                   0      8,120 K
+explorer.exe                   580 Console                    2    237,176 K
+ctfmon.exe                    5472 Console                    2     19,504 K
+dllhost.exe                   5500 Console                    2     16,708 K
+svchost.exe                   4552 Services                   0     13,280 K
+svchost.exe                   1484 Console                    2     25,168 K
+StartMenuExperienceHost.e     2940 Console                    2     79,584 K
+RuntimeBroker.exe             5804 Console                    2     30,064 K
+SearchApp.exe                 4356 Console                    2    281,668 K
+RuntimeBroker.exe              620 Console                    2     46,724 K
+svchost.exe                   2600 Services                   0      7,536 K
+RuntimeBroker.exe             2552 Console                    2     26,308 K
+svchost.exe                   1180 Services                   0     37,628 K
+svchost.exe                   5940 Console                    2     25,360 K
+taskhostw.exe                 4860 Console                    2     10,680 K
+SecurityHealthSystray.exe     6404 Console                    2      9,068 K
+SecurityHealthService.exe     6588 Services                   0     18,476 K
+OneDrive.exe                  4992 Console                    2     59,432 K
+TextInputHost.exe             7052 Console                    2     36,816 K
+dllhost.exe                   2068 Console                    2     14,944 K
+svchost.exe                   3440 Services                   0     12,960 K
+ApplicationFrameHost.exe      7504 Console                    2     24,792 K
+taskhostw.exe                 5904 Console                    2     20,868 K
+msedge.exe                    4392 Console                    2    166,624 K
+msedge.exe                    4172 Console                    2      7,464 K
+msedge.exe                    8188 Console                    2     49,520 K
+msedge.exe                    1036 Console                    2     38,532 K
+msedge.exe                    8020 Console                    2     16,984 K
+ShellExperienceHost.exe       2368 Console                    2     48,936 K
+RuntimeBroker.exe             4776 Console                    2     17,048 K
+MsMpEng.exe                   6024 Services                   0    212,408 K
+MpDefenderCoreService.exe     2764 Services                   0     19,572 K
+dllhost.exe                   3896 Services                   0     12,372 K
+NisSrv.exe                    5672 Services                   0      9,696 K
+svchost.exe                   5360 Console                    2     11,976 K
+svchost.exe                   3176 Services                   0     11,300 K
+MusNotifyIcon.exe             5960 Console                    2        340 K
+Microsoft.Photos.exe          3096 Console                    2     24,512 K
+RuntimeBroker.exe             3124 Console                    2     27,960 K
+svchost.exe                   3216 Services                   0      8,024 K
+svchost.exe                   5628 Services                   0     10,184 K
+svchost.exe                   3960 Services                   0     20,092 K
+msedge.exe                    3264 Console                    2    147,760 K
+PhoneExperienceHost.exe       5436 Console                    2    128,716 K
+svchost.exe                   3988 Services                   0      8,588 K
+msedge.exe                    5444 Console                    2     24,992 K
+msedge.exe                    5644 Console                    2    141,008 K
+msedge.exe                    6784 Console                    2     16,220 K
+svchost.exe                   1340 Services                   0      6,460 K
+svchost.exe                   6688 Services                   0     42,648 K
+SearchProtocolHost.exe        1176 Services                   0     12,760 K
+SearchFilterHost.exe          6800 Services                   0      8,584 K
+svchost.exe                   7556 Services                   0      7,556 K
+svchost.exe                   1820 Console                    2     31,320 K
+GameBar.exe                   7340 Console                    2     77,296 K
+GameBarFTServer.exe           8080 Console                    2     28,244 K
+svchost.exe                   7448 Services                   0      7,824 K
+RuntimeBroker.exe             5044 Console                    2     26,856 K
+msedge.exe                    2936 Console                    2     27,680 K
+WmiPrvSE.exe                  6968 Services                   0     15,580 K
+smartscreen.exe               3288 Console                    2     36,328 K
+dllhost.exe                   2728 Console                    2      8,120 K
+audiodg.exe                   4100 Services                   0     12,036 K
+cmd.exe                       6944 Console                    2      4,920 K
+conhost.exe                   7352 Console                    2     17,996 K
+WmiPrvSE.exe                  7224 Services                   0      8,928 K
+TrustedInstaller.exe          3628 Services                   0      7,668 K
+TiWorker.exe                   364 Services                   0     10,680 K
+tasklist.exe                  7924 Console                    2      9,188 K
+D e s c r i p t i o n                           D e v i c e I D                                       
+ 
+ S t a n d a r d   P S / 2   K e y b o a r d     A C P I \ P N P 0 3 0 3 \ 4 & 1 D 4 0 1 F B 5 & 0     
+ 
+ D e s c r i p t i o n                       D e v i c e I D                                                             
+ 
+ U S B   I n p u t   D e v i c e             U S B \ V I D _ 8 0 E E & P I D _ 0 0 2 1 \ 5 & 1 2 C 8 F 4 C 0 & 0 & 1     
+ 
+ M i c r o s o f t   P S / 2   M o u s e     A C P I \ P N P 0 F 0 3 \ 4 & 1 D 4 0 1 F B 5 & 0                           
+ 
+ D e v i c e I D                                               N a m e                                                       P o r t N a m e                                                                                                                                                                                                                                                     
+ 
+ O n e N o t e   f o r   W i n d o w s   1 0                   O n e N o t e   f o r   W i n d o w s   1 0                   M i c r o s o f t . O f f i c e . O n e N o t e _ 1 6 0 0 1 . 1 4 3 2 6 . 2 2 0 9 4 . 0 _ x 6 4 _ _ 8 w e k y b 3 d 8 b b w e _ m i c r o s o f t . o n e n o t e i m _ S - 1 - 5 - 2 1 - 2 1 8 7 5 3 7 2 5 2 - 8 9 4 5 3 4 6 6 6 - 7 2 7 0 8 2 3 3 2 - 1 0 0 1     
+ 
+ M i c r o s o f t   X P S   D o c u m e n t   W r i t e r     M i c r o s o f t   X P S   D o c u m e n t   W r i t e r     P O R T P R O M P T :                                                                                                                                                                                                                                               
+ 
+ M i c r o s o f t   P r i n t   t o   P D F                   M i c r o s o f t   P r i n t   t o   P D F                   P O R T P R O M P T :                                                                                                                                                                                                                                               
+ 
+ F a x                                                         F a x                                                         S H R F A X :                                                                                                                                                                                                                                                       
+ 
+ D e v i c e I D                                               P N P D e v i c e I D                                         
+ 
+ U S B \ R O O T _ H U B 3 0 \ 4 & 2 4 0 5 4 7 1 8 & 0 & 0     U S B \ R O O T _ H U B 3 0 \ 4 & 2 4 0 5 4 7 1 8 & 0 & 0     
+ 
+ C a p t i o n                                                               D e v i c e I D     N u m b e r O f C o r e s     N u m b e r O f L o g i c a l P r o c e s s o r s     
+ 
+ I n t e l 6 4   F a m i l y   6   M o d e l   5 8   S t e p p i n g   9     C P U 0             2                             2                                                     
+ 
+ 
+ 
+ M e d i a T y p e                             M o d e l                     S i z e                   
+ 
+ F i x e d   h a r d   d i s k   m e d i a     V B O X   H A R D D I S K     5 3 6 8 6 4 0 2 5 6 0     
+ 
+ A d a p t e r R A M     C a p t i o n                                                     V i d e o P r o c e s s o r                 
+ 
+ 0                       M i c r o s o f t   B a s i c   D i s p l a y   A d a p t e r     V i r t u a l B o x   V E S A   B I O S     
+ 
+ M a n u f a c t u r e r                 P r o d u c t           S e r i a l N u m b e r     
+ 
+ O r a c l e   C o r p o r a t i o n     V i r t u a l B o x     0                           
+ 
+ O r g a n i z a t i o n     R e g i s t e r e d U s e r     
+ 
+                             R e a p e r N e t               
+ 
+ C a p t i o n                                                                                                       C o m m a n d                                                                                                                                                                                                   U s e r                                                     
+ 
+ O n e D r i v e S e t u p                                                                                           C : \ W i n d o w s \ S y s W O W 6 4 \ O n e D r i v e S e t u p . e x e   / t h f i r s t s e t u p                                                                                                           N T   A U T H O R I T Y \ L O C A L   S E R V I C E         
+ 
+ O n e D r i v e S e t u p                                                                                           C : \ W i n d o w s \ S y s W O W 6 4 \ O n e D r i v e S e t u p . e x e   / t h f i r s t s e t u p                                                                                                           N T   A U T H O R I T Y \ N E T W O R K   S E R V I C E     
+ 
+ M i c r o s o f t E d g e A u t o L a u n c h _ A 0 4 E B 1 4 C 1 D 8 E C 7 E 6 C 4 E C 0 3 4 C A 9 5 9 6 E 3 B     " C : \ P r o g r a m   F i l e s   ( x 8 6 ) \ M i c r o s o f t \ E d g e \ A p p l i c a t i o n \ m s e d g e . e x e "   - - n o - s t a r t u p - w i n d o w   - - w i n - s e s s i o n - s t a r t     D E S K T O P - C V P Q 3 6 H \ R e a p e r N e t           
+ 
+ O n e D r i v e                                                                                                     " C : \ U s e r s \ R e a p e r N e t \ A p p D a t a \ L o c a l \ M i c r o s o f t \ O n e D r i v e \ O n e D r i v e . e x e "   / b a c k g r o u n d                                                     D E S K T O P - C V P Q 3 6 H \ R e a p e r N e t           
+ 
+ S e c u r i t y H e a l t h                                                                                         % w i n d i r % \ s y s t e m 3 2 \ S e c u r i t y H e a l t h S y s t r a y . e x e                                                                                                                           P u b l i c                                                 
+ 
+ D i s a b l e d     N a m e                                 
+ 
+ T R U E             A d m i n i s t r a t o r               
+ 
+ T R U E             D e f a u l t A c c o u n t             
+ 
+ T R U E             G u e s t                               
+ 
+ F A L S E           R e a p e r N e t                       
+ 
+ T R U E             W D A G U t i l i t y A c c o u n t     
+ 
+ Event[0]:
+  Log Name: Security
+  Source: Microsoft-Windows-Security-Auditing
+  Date: 2025-01-20T17:58:42.9960000Z
+  Event ID: 4624
+  Task: Logon
+  Level: Information
+  Opcode: Info
+  Keyword: Audit Success
+  User: N/A
+  User Name: N/A
+  Computer: WIN-S31BL3B0JSE
+  Description: 
+An account was successfully logged on.
+
+Subject:
+	Security ID:		S-1-0-0
+	Account Name:		-
+	Account Domain:		-
+	Logon ID:		0x0
+
+Logon Information:
+	Logon Type:		0
+	Restricted Admin Mode:	-
+	Virtual Account:		No
+	Elevated Token:		Yes
+
+Impersonation Level:		-
+
+New Logon:
+	Security ID:		S-1-5-18
+	Account Name:		SYSTEM
+	Account Domain:		NT AUTHORITY
+	Logon ID:		0x3E7
+	Linked Logon ID:		0x0
+	Network Account Name:	-
+	Network Account Domain:	-
+	Logon GUID:		{00000000-0000-0000-0000-000000000000}
+
+Process Information:
+	Process ID:		0x4
+	Process Name:		
+
+Network Information:
+	Workstation Name:	-
+	Source Network Address:	-
+	Source Port:		-
+
+Detailed Authentication Information:
+	Logon Process:		-
+	Authentication Package:	-
+	Transited Services:	-
+	Package Name (NTLM only):	-
+	Key Length:		0
+
+This event is generated when a logon session is created. It is generated on the computer that was accessed.
+
+The subject fields indicate the account on the local system which requested the logon. This is most commonly a service such as the Server service, or a local process such as Winlogon.exe or Services.exe.
+
+The logon type field indicates the kind of logon that occurred. The most common types are 2 (interactive) and 3 (network).
+
+The New Logon fields indicate the account for whom the new logon was created, i.e. the account that was logged on.
+
+The network fields indicate where a remote logon request originated. Workstation name is not always available and may be left blank in some cases.
+
+The impersonation level field indicates the extent to which a process in the logon session can impersonate.
+
+The authentication information fields provide detailed information about this specific logon request.
+	- Logon GUID is a unique identifier that can be used to correlate this event with a KDC event.
+	- Transited services indicate which intermediate services have participated in this logon request.
+	- Package name indicates which sub-protocol was used among the NTLM protocols.
+	- Key length indicates the length of the generated session key. This will be 0 if no session key was requested.
+
+Event[1]:
+  Log Name: Security
+  Source: Microsoft-Windows-Security-Auditing
+  Date: 2025-01-20T17:58:45.0270000Z
+  Event ID: 4624
+  Task: Logon
+  Level: Information
+  Opcode: Info
+  Keyword: Audit Success
+  User: N/A
+  User Name: N/A
+  Computer: WIN-S31BL3B0JSE
+  Description: 
+An account was successfully logged on.
+
+Subject:
+	Security ID:		S-1-5-18
+	Account Name:		MINWINPC$
+	Account Domain:		
+	Logon ID:		0x3E7
+
+Logon Information:
+	Logon Type:		5
+	Restricted Admin Mode:	-
+	Virtual Account:		No
+	Elevated Token:		Yes
+
+Impersonation Level:		Impersonation
+
+New Logon:
+	Security ID:		S-1-5-18
+	Account Name:		SYSTEM
+	Account Domain:		NT AUTHORITY
+	Logon ID:		0x3E7
+	Linked Logon ID:		0x0
+	Network Account Name:	-
+	Network Account Domain:	-
+	Logon GUID:		{00000000-0000-0000-0000-000000000000}
+
+Process Information:
+	Process ID:		0x2c8
+	Process Name:		C:\Windows\System32\services.exe
+
+Network Information:
+	Workstation Name:	-
+	Source Network Address:	-
+	Source Port:		-
+
+Detailed Authentication Information:
+	Logon Process:		Advapi  
+	Authentication Package:	Negotiate
+	Transited Services:	-
+	Package Name (NTLM only):	-
+	Key Length:		0
+
+This event is generated when a logon session is created. It is generated on the computer that was accessed.
+
+The subject fields indicate the account on the local system which requested the logon. This is most commonly a service such as the Server service, or a local process such as Winlogon.exe or Services.exe.
+
+The logon type field indicates the kind of logon that occurred. The most common types are 2 (interactive) and 3 (network).
+
+The New Logon fields indicate the account for whom the new logon was created, i.e. the account that was logged on.
+
+The network fields indicate where a remote logon request originated. Workstation name is not always available and may be left blank in some cases.
+
+The impersonation level field indicates the extent to which a process in the logon session can impersonate.
+
+The authentication information fields provide detailed information about this specific logon request.
+	- Logon GUID is a unique identifier that can be used to correlate this event with a KDC event.
+	- Transited services indicate which intermediate services have participated in this logon request.
+	- Package name indicates which sub-protocol was used among the NTLM protocols.
+	- Key length indicates the length of the generated session key. This will be 0 if no session key was requested.
+
+Event[2]:
+  Log Name: Security
+  Source: Microsoft-Windows-Security-Auditing
+  Date: 2025-01-20T17:58:45.0490000Z
+  Event ID: 4624
+  Task: Logon
+  Level: Information
+  Opcode: Info
+  Keyword: Audit Success
+  User: N/A
+  User Name: N/A
+  Computer: WIN-S31BL3B0JSE
+  Description: 
+An account was successfully logged on.
+
+Subject:
+	Security ID:		S-1-5-18
+	Account Name:		MINWINPC$
+	Account Domain:		
+	Logon ID:		0x3E7
+
+Logon Information:
+	Logon Type:		2
+	Restricted Admin Mode:	-
+	Virtual Account:		Yes
+	Elevated Token:		No
+
+Impersonation Level:		Impersonation
+
+New Logon:
+	Security ID:		S-1-5-96-0-1
+	Account Name:		UMFD-1
+	Account Domain:		Font Driver Host
+	Logon ID:		0xBA08
+	Linked Logon ID:		0x0
+	Network Account Name:	-
+	Network Account Domain:	-
+	Logon GUID:		{00000000-0000-0000-0000-000000000000}
+
+Process Information:
+	Process ID:		0x240
+	Process Name:		C:\Windows\System32\winlogon.exe
+
+Network Information:
+	Workstation Name:	-
+	Source Network Address:	-
+	Source Port:		-
+
+Detailed Authentication Information:
+	Logon Process:		Advapi  
+	Authentication Package:	Negotiate
+	Transited Services:	-
+	Package Name (NTLM only):	-
+	Key Length:		0
+
+This event is generated when a logon session is created. It is generated on the computer that was accessed.
+
+The subject fields indicate the account on the local system which requested the logon. This is most commonly a service such as the Server service, or a local process such as Winlogon.exe or Services.exe.
+
+The logon type field indicates the kind of logon that occurred. The most common types are 2 (interactive) and 3 (network).
+
+The New Logon fields indicate the account for whom the new logon was created, i.e. the account that was logged on.
+
+The network fields indicate where a remote logon request originated. Workstation name is not always available and may be left blank in some cases.
+
+The impersonation level field indicates the extent to which a process in the logon session can impersonate.
+
+The authentication information fields provide detailed information about this specific logon request.
+	- Logon GUID is a unique identifier that can be used to correlate this event with a KDC event.
+	- Transited services indicate which intermediate services have participated in this logon request.
+	- Package name indicates which sub-protocol was used among the NTLM protocols.
+	- Key length indicates the length of the generated session key. This will be 0 if no session key was requested.
+
+Event[3]:
+  Log Name: Security
+  Source: Microsoft-Windows-Security-Auditing
+  Date: 2025-01-20T17:58:45.0510000Z
+  Event ID: 4624
+  Task: Logon
+  Level: Information
+  Opcode: Info
+  Keyword: Audit Success
+  User: N/A
+  User Name: N/A
+  Computer: WIN-S31BL3B0JSE
+  Description: 
+An account was successfully logged on.
+
+Subject:
+	Security ID:		S-1-5-18
+	Account Name:		MINWINPC$
+	Account Domain:		
+	Logon ID:		0x3E7
+
+Logon Information:
+	Logon Type:		2
+	Restricted Admin Mode:	-
+	Virtual Account:		Yes
+	Elevated Token:		No
+
+Impersonation Level:		Impersonation
+
+New Logon:
+	Security ID:		S-1-5-96-0-0
+	Account Name:		UMFD-0
+	Account Domain:		Font Driver Host
+	Logon ID:		0xB9EC
+	Linked Logon ID:		0x0
+	Network Account Name:	-
+	Network Account Domain:	-
+	Logon GUID:		{00000000-0000-0000-0000-000000000000}
+
+Process Information:
+	Process ID:		0x214
+	Process Name:		C:\Windows\System32\wininit.exe
+
+Network Information:
+	Workstation Name:	-
+	Source Network Address:	-
+	Source Port:		-
+
+Detailed Authentication Information:
+	Logon Process:		Advapi  
+	Authentication Package:	Negotiate
+	Transited Services:	-
+	Package Name (NTLM only):	-
+	Key Length:		0
+
+This event is generated when a logon session is created. It is generated on the computer that was accessed.
+
+The subject fields indicate the account on the local system which requested the logon. This is most commonly a service such as the Server service, or a local process such as Winlogon.exe or Services.exe.
+
+The logon type field indicates the kind of logon that occurred. The most common types are 2 (interactive) and 3 (network).
+
+The New Logon fields indicate the account for whom the new logon was created, i.e. the account that was logged on.
+
+The network fields indicate where a remote logon request originated. Workstation name is not always available and may be left blank in some cases.
+
+The impersonation level field indicates the extent to which a process in the logon session can impersonate.
+
+The authentication information fields provide detailed information about this specific logon request.
+	- Logon GUID is a unique identifier that can be used to correlate this event with a KDC event.
+	- Transited services indicate which intermediate services have participated in this logon request.
+	- Package name indicates which sub-protocol was used among the NTLM protocols.
+	- Key length indicates the length of the generated session key. This will be 0 if no session key was requested.
+
+Event[4]:
+  Log Name: Security
+  Source: Microsoft-Windows-Security-Auditing
+  Date: 2025-01-20T17:58:47.6860000Z
+  Event ID: 4624
+  Task: Logon
+  Level: Information
+  Opcode: Info
+  Keyword: Audit Success
+  User: N/A
+  User Name: N/A
+  Computer: WIN-S31BL3B0JSE
+  Description: 
+An account was successfully logged on.
+
+Subject:
+	Security ID:		S-1-5-18
+	Account Name:		MINWINPC$
+	Account Domain:		
+	Logon ID:		0x3E7
+
+Logon Information:
+	Logon Type:		5
+	Restricted Admin Mode:	-
+	Virtual Account:		No
+	Elevated Token:		Yes
+
+Impersonation Level:		Impersonation
+
+New Logon:
+	Security ID:		S-1-5-20
+	Account Name:		NETWORK SERVICE
+	Account Domain:		NT AUTHORITY
+	Logon ID:		0x3E4
+	Linked Logon ID:		0x0
+	Network Account Name:	-
+	Network Account Domain:	-
+	Logon GUID:		{00000000-0000-0000-0000-000000000000}
+
+Process Information:
+	Process ID:		0x2c8
+	Process Name:		C:\Windows\System32\services.exe
+
+Network Information:
+	Workstation Name:	-
+	Source Network Address:	-
+	Source Port:		-
+
+Detailed Authentication Information:
+	Logon Process:		Advapi  
+	Authentication Package:	Negotiate
+	Transited Services:	-
+	Package Name (NTLM only):	-
+	Key Length:		0
+
+This event is generated when a logon session is created. It is generated on the computer that was accessed.
+
+The subject fields indicate the account on the local system which requested the logon. This is most commonly a service such as the Server service, or a local process such as Winlogon.exe or Services.exe.
+
+The logon type field indicates the kind of logon that occurred. The most common types are 2 (interactive) and 3 (network).
+
+The New Logon fields indicate the account for whom the new logon was created, i.e. the account that was logged on.
+
+The network fields indicate where a remote logon request originated. Workstation name is not always available and may be left blank in some cases.
+
+The impersonation level field indicates the extent to which a process in the logon session can impersonate.
+
+The authentication information fields provide detailed information about this specific logon request.
+	- Logon GUID is a unique identifier that can be used to correlate this event with a KDC event.
+	- Transited services indicate which intermediate services have participated in this logon request.
+	- Package name indicates which sub-protocol was used among the NTLM protocols.
+	- Key length indicates the length of the generated session key. This will be 0 if no session key was requested.
+
+Event[5]:
+  Log Name: Security
+  Source: Microsoft-Windows-Security-Auditing
+  Date: 2025-01-20T17:58:51.3250000Z
+  Event ID: 4624
+  Task: Logon
+  Level: Information
+  Opcode: Info
+  Keyword: Audit Success
+  User: N/A
+  User Name: N/A
+  Computer: WIN-S31BL3B0JSE
+  Description: 
+An account was successfully logged on.
+
+Subject:
+	Security ID:		S-1-5-18
+	Account Name:		MINWINPC$
+	Account Domain:		
+	Logon ID:		0x3E7
+
+Logon Information:
+	Logon Type:		5
+	Restricted Admin Mode:	-
+	Virtual Account:		No
+	Elevated Token:		Yes
+
+Impersonation Level:		Impersonation
+
+New Logon:
+	Security ID:		S-1-5-18
+	Account Name:		SYSTEM
+	Account Domain:		NT AUTHORITY
+	Logon ID:		0x3E7
+	Linked Logon ID:		0x0
+	Network Account Name:	-
+	Network Account Domain:	-
+	Logon GUID:		{00000000-0000-0000-0000-000000000000}
+
+Process Information:
+	Process ID:		0x2c8
+	Process Name:		C:\Windows\System32\services.exe
+
+Network Information:
+	Workstation Name:	-
+	Source Network Address:	-
+	Source Port:		-
+
+Detailed Authentication Information:
+	Logon Process:		Advapi  
+	Authentication Package:	Negotiate
+	Transited Services:	-
+	Package Name (NTLM only):	-
+	Key Length:		0
+
+This event is generated when a logon session is created. It is generated on the computer that was accessed.
+
+The subject fields indicate the account on the local system which requested the logon. This is most commonly a service such as the Server service, or a local process such as Winlogon.exe or Services.exe.
+
+The logon type field indicates the kind of logon that occurred. The most common types are 2 (interactive) and 3 (network).
+
+The New Logon fields indicate the account for whom the new logon was created, i.e. the account that was logged on.
+
+The network fields indicate where a remote logon request originated. Workstation name is not always available and may be left blank in some cases.
+
+The impersonation level field indicates the extent to which a process in the logon session can impersonate.
+
+The authentication information fields provide detailed information about this specific logon request.
+	- Logon GUID is a unique identifier that can be used to correlate this event with a KDC event.
+	- Transited services indicate which intermediate services have participated in this logon request.
+	- Package name indicates which sub-protocol was used among the NTLM protocols.
+	- Key length indicates the length of the generated session key. This will be 0 if no session key was requested.
+
+Event[6]:
+  Log Name: Security
+  Source: Microsoft-Windows-Security-Auditing
+  Date: 2025-01-20T17:58:54.0110000Z
+  Event ID: 4624
+  Task: Logon
+  Level: Information
+  Opcode: Info
+  Keyword: Audit Success
+  User: N/A
+  User Name: N/A
+  Computer: WIN-S31BL3B0JSE
+  Description: 
+An account was successfully logged on.
+
+Subject:
+	Security ID:		S-1-5-18
+	Account Name:		MINWINPC$
+	Account Domain:		
+	Logon ID:		0x3E7
+
+Logon Information:
+	Logon Type:		5
+	Restricted Admin Mode:	-
+	Virtual Account:		No
+	Elevated Token:		Yes
+
+Impersonation Level:		Impersonation
+
+New Logon:
+	Security ID:		S-1-5-18
+	Account Name:		SYSTEM
+	Account Domain:		NT AUTHORITY
+	Logon ID:		0x3E7
+	Linked Logon ID:		0x0
+	Network Account Name:	-
+	Network Account Domain:	-
+	Logon GUID:		{00000000-0000-0000-0000-000000000000}
+
+Process Information:
+	Process ID:		0x2c8
+	Process Name:		C:\Windows\System32\services.exe
+
+Network Information:
+	Workstation Name:	-
+	Source Network Address:	-
+	Source Port:		-
+
+Detailed Authentication Information:
+	Logon Process:		Advapi  
+	Authentication Package:	Negotiate
+	Transited Services:	-
+	Package Name (NTLM only):	-
+	Key Length:		0
+
+This event is generated when a logon session is created. It is generated on the computer that was accessed.
+
+The subject fields indicate the account on the local system which requested the logon. This is most commonly a service such as the Server service, or a local process such as Winlogon.exe or Services.exe.
+
+The logon type field indicates the kind of logon that occurred. The most common types are 2 (interactive) and 3 (network).
+
+The New Logon fields indicate the account for whom the new logon was created, i.e. the account that was logged on.
+
+The network fields indicate where a remote logon request originated. Workstation name is not always available and may be left blank in some cases.
+
+The impersonation level field indicates the extent to which a process in the logon session can impersonate.
+
+The authentication information fields provide detailed information about this specific logon request.
+	- Logon GUID is a unique identifier that can be used to correlate this event with a KDC event.
+	- Transited services indicate which intermediate services have participated in this logon request.
+	- Package name indicates which sub-protocol was used among the NTLM protocols.
+	- Key length indicates the length of the generated session key. This will be 0 if no session key was requested.
+
+Event[7]:
+  Log Name: Security
+  Source: Microsoft-Windows-Security-Auditing
+  Date: 2025-01-20T17:58:54.0480000Z
+  Event ID: 4624
+  Task: Logon
+  Level: Information
+  Opcode: Info
+  Keyword: Audit Success
+  User: N/A
+  User Name: N/A
+  Computer: WIN-S31BL3B0JSE
+  Description: 
+An account was successfully logged on.
+
+Subject:
+	Security ID:		S-1-5-18
+	Account Name:		MINWINPC$
+	Account Domain:		
+	Logon ID:		0x3E7
+
+Logon Information:
+	Logon Type:		5
+	Restricted Admin Mode:	-
+	Virtual Account:		No
+	Elevated Token:		Yes
+
+Impersonation Level:		Impersonation
+
+New Logon:
+	Security ID:		S-1-5-18
+	Account Name:		SYSTEM
+	Account Domain:		NT AUTHORITY
+	Logon ID:		0x3E7
+	Linked Logon ID:		0x0
+	Network Account Name:	-
+	Network Account Domain:	-
+	Logon GUID:		{00000000-0000-0000-0000-000000000000}
+
+Process Information:
+	Process ID:		0x2c8
+	Process Name:		C:\Windows\System32\services.exe
+
+Network Information:
+	Workstation Name:	-
+	Source Network Address:	-
+	Source Port:		-
+
+Detailed Authentication Information:
+	Logon Process:		Advapi  
+	Authentication Package:	Negotiate
+	Transited Services:	-
+	Package Name (NTLM only):	-
+	Key Length:		0
+
+This event is generated when a logon session is created. It is generated on the computer that was accessed.
+
+The subject fields indicate the account on the local system which requested the logon. This is most commonly a service such as the Server service, or a local process such as Winlogon.exe or Services.exe.
+
+The logon type field indicates the kind of logon that occurred. The most common types are 2 (interactive) and 3 (network).
+
+The New Logon fields indicate the account for whom the new logon was created, i.e. the account that was logged on.
+
+The network fields indicate where a remote logon request originated. Workstation name is not always available and may be left blank in some cases.
+
+The impersonation level field indicates the extent to which a process in the logon session can impersonate.
+
+The authentication information fields provide detailed information about this specific logon request.
+	- Logon GUID is a unique identifier that can be used to correlate this event with a KDC event.
+	- Transited services indicate which intermediate services have participated in this logon request.
+	- Package name indicates which sub-protocol was used among the NTLM protocols.
+	- Key length indicates the length of the generated session key. This will be 0 if no session key was requested.
+
+Event[8]:
+  Log Name: Security
+  Source: Microsoft-Windows-Security-Auditing
+  Date: 2025-01-20T17:58:54.3730000Z
+  Event ID: 4624
+  Task: Logon
+  Level: Information
+  Opcode: Info
+  Keyword: Audit Success
+  User: N/A
+  User Name: N/A
+  Computer: WIN-S31BL3B0JSE
+  Description: 
+An account was successfully logged on.
+
+Subject:
+	Security ID:		S-1-5-18
+	Account Name:		MINWINPC$
+	Account Domain:		
+	Logon ID:		0x3E7
+
+Logon Information:
+	Logon Type:		2
+	Restricted Admin Mode:	-
+	Virtual Account:		Yes
+	Elevated Token:		Yes
+
+Impersonation Level:		Impersonation
+
+New Logon:
+	Security ID:		S-1-5-90-0-1
+	Account Name:		DWM-1
+	Account Domain:		Window Manager
+	Logon ID:		0x134A1
+	Linked Logon ID:		0x134B3
+	Network Account Name:	-
+	Network Account Domain:	-
+	Logon GUID:		{00000000-0000-0000-0000-000000000000}
+
+Process Information:
+	Process ID:		0x240
+	Process Name:		C:\Windows\System32\winlogon.exe
+
+Network Information:
+	Workstation Name:	-
+	Source Network Address:	-
+	Source Port:		-
+
+Detailed Authentication Information:
+	Logon Process:		Advapi  
+	Authentication Package:	Negotiate
+	Transited Services:	-
+	Package Name (NTLM only):	-
+	Key Length:		0
+
+This event is generated when a logon session is created. It is generated on the computer that was accessed.
+
+The subject fields indicate the account on the local system which requested the logon. This is most commonly a service such as the Server service, or a local process such as Winlogon.exe or Services.exe.
+
+The logon type field indicates the kind of logon that occurred. The most common types are 2 (interactive) and 3 (network).
+
+The New Logon fields indicate the account for whom the new logon was created, i.e. the account that was logged on.
+
+The network fields indicate where a remote logon request originated. Workstation name is not always available and may be left blank in some cases.
+
+The impersonation level field indicates the extent to which a process in the logon session can impersonate.
+
+The authentication information fields provide detailed information about this specific logon request.
+	- Logon GUID is a unique identifier that can be used to correlate this event with a KDC event.
+	- Transited services indicate which intermediate services have participated in this logon request.
+	- Package name indicates which sub-protocol was used among the NTLM protocols.
+	- Key length indicates the length of the generated session key. This will be 0 if no session key was requested.
+
+Event[9]:
+  Log Name: Security
+  Source: Microsoft-Windows-Security-Auditing
+  Date: 2025-01-20T17:58:54.3730000Z
+  Event ID: 4624
+  Task: Logon
+  Level: Information
+  Opcode: Info
+  Keyword: Audit Success
+  User: N/A
+  User Name: N/A
+  Computer: WIN-S31BL3B0JSE
+  Description: 
+An account was successfully logged on.
+
+Subject:
+	Security ID:		S-1-5-18
+	Account Name:		MINWINPC$
+	Account Domain:		
+	Logon ID:		0x3E7
+
+Logon Information:
+	Logon Type:		2
+	Restricted Admin Mode:	-
+	Virtual Account:		Yes
+	Elevated Token:		No
+
+Impersonation Level:		Impersonation
+
+New Logon:
+	Security ID:		S-1-5-90-0-1
+	Account Name:		DWM-1
+	Account Domain:		Window Manager
+	Logon ID:		0x134B3
+	Linked Logon ID:		0x134A1
+	Network Account Name:	-
+	Network Account Domain:	-
+	Logon GUID:		{00000000-0000-0000-0000-000000000000}
+
+Process Information:
+	Process ID:		0x240
+	Process Name:		C:\Windows\System32\winlogon.exe
+
+Network Information:
+	Workstation Name:	-
+	Source Network Address:	-
+	Source Port:		-
+
+Detailed Authentication Information:
+	Logon Process:		Advapi  
+	Authentication Package:	Negotiate
+	Transited Services:	-
+	Package Name (NTLM only):	-
+	Key Length:		0
+
+This event is generated when a logon session is created. It is generated on the computer that was accessed.
+
+The subject fields indicate the account on the local system which requested the logon. This is most commonly a service such as the Server service, or a local process such as Winlogon.exe or Services.exe.
+
+The logon type field indicates the kind of logon that occurred. The most common types are 2 (interactive) and 3 (network).
+
+The New Logon fields indicate the account for whom the new logon was created, i.e. the account that was logged on.
+
+The network fields indicate where a remote logon request originated. Workstation name is not always available and may be left blank in some cases.
+
+The impersonation level field indicates the extent to which a process in the logon session can impersonate.
+
+The authentication information fields provide detailed information about this specific logon request.
+	- Logon GUID is a unique identifier that can be used to correlate this event with a KDC event.
+	- Transited services indicate which intermediate services have participated in this logon request.
+	- Package name indicates which sub-protocol was used among the NTLM protocols.
+	- Key length indicates the length of the generated session key. This will be 0 if no session key was requested.
+
+The system cannot find the path specified.
+The system cannot find the path specified.
+  TCP    0.0.0.0:135            0.0.0.0:0              LISTENING       900
+  TCP    0.0.0.0:445            0.0.0.0:0              LISTENING       4
+  TCP    0.0.0.0:5040           0.0.0.0:0              LISTENING       2208
+  TCP    0.0.0.0:49664          0.0.0.0:0              LISTENING       668
+  TCP    0.0.0.0:49665          0.0.0.0:0              LISTENING       540
+  TCP    0.0.0.0:49666          0.0.0.0:0              LISTENING       1412
+  TCP    0.0.0.0:49667          0.0.0.0:0              LISTENING       1840
+  TCP    0.0.0.0:49669          0.0.0.0:0              LISTENING       2700
+  TCP    0.0.0.0:49672          0.0.0.0:0              LISTENING       648
+  TCP    10.0.2.15:139          0.0.0.0:0              LISTENING       4
+  TCP    [::]:135               [::]:0                 LISTENING       900
+  TCP    [::]:445               [::]:0                 LISTENING       4
+  TCP    [::]:49664             [::]:0                 LISTENING       668
+  TCP    [::]:49665             [::]:0                 LISTENING       540
+  TCP    [::]:49666             [::]:0                 LISTENING       1412
+  TCP    [::]:49667             [::]:0                 LISTENING       1840
+  TCP    [::]:49669             [::]:0                 LISTENING       2700
+  TCP    [::]:49672             [::]:0                 LISTENING       648
+
+Windows IP Configuration
+
+   Host Name . . . . . . . . . . . . : DESKTOP-CVPQ36H
+   Primary Dns Suffix  . . . . . . . : 
+   Node Type . . . . . . . . . . . . : Hybrid
+   IP Routing Enabled. . . . . . . . : No
+   WINS Proxy Enabled. . . . . . . . : No
+   DNS Suffix Search List. . . . . . : modem
+
+Ethernet adapter Ethernet:
+
+   Connection-specific DNS Suffix  . : modem
+   Description . . . . . . . . . . . : Intel(R) PRO/1000 MT Desktop Adapter
+   Physical Address. . . . . . . . . : 08-00-27-DF-D0-47
+   DHCP Enabled. . . . . . . . . . . : Yes
+   Autoconfiguration Enabled . . . . : Yes
+   IPv6 Address. . . . . . . . . . . : fd00::be5b:5493:2b7c:562f(Preferred) 
+   Temporary IPv6 Address. . . . . . : fd00::8d3b:bf46:7d4b:f48e(Preferred) 
+   Link-local IPv6 Address . . . . . : fe80::6f35:8666:2b83:c800%5(Preferred) 
+   IPv4 Address. . . . . . . . . . . : 10.0.2.15(Preferred) 
+   Subnet Mask . . . . . . . . . . . : 255.255.255.0
+   Lease Obtained. . . . . . . . . . : Monday, January 20, 2025 12:25:59 AM
+   Lease Expires . . . . . . . . . . : Tuesday, January 21, 2025 12:26:13 PM
+   Default Gateway . . . . . . . . . : fe80::2%5
+                                       10.0.2.2
+   DHCP Server . . . . . . . . . . . : 10.0.2.2
+   DHCPv6 IAID . . . . . . . . . . . : 101187623
+   DHCPv6 Client DUID. . . . . . . . : 00-01-00-01-2F-20-B7-EE-08-00-27-DF-D0-47
+   DNS Servers . . . . . . . . . . . : 10.0.2.3
+   NetBIOS over Tcpip. . . . . . . . : Enabled
+
+Host Name:                 DESKTOP-CVPQ36H
+OS Name:                   Microsoft Windows 10 Pro
+OS Version:                10.0.19045 N/A Build 19045
+OS Manufacturer:           Microsoft Corporation
+OS Configuration:          Standalone Workstation
+OS Build Type:             Multiprocessor Free
+Registered Owner:          ReaperNet
+Registered Organization:   
+Product ID:                00330-80000-00000-AA630
+Original Install Date:     1/20/2025, 12:27:32 AM
+System Boot Time:          1/20/2025, 12:25:04 AM
+System Manufacturer:       innotek GmbH
+System Model:              VirtualBox
+System Type:               x64-based PC
+Processor(s):              1 Processor(s) Installed.
+                           [01]: Intel64 Family 6 Model 58 Stepping 9 GenuineIntel ~3511 Mhz
+BIOS Version:              innotek GmbH VirtualBox, 12/1/2006
+Windows Directory:         C:\Windows
+System Directory:          C:\Windows\system32
+Boot Device:               \Device\HarddiskVolume1
+System Locale:             en-us;English (United States)
+Input Locale:              en-us;English (United States)
+Time Zone:                 (UTC-08:00) Pacific Time (US & Canada)
+Total Physical Memory:     5,589 MB
+Available Physical Memory: 2,153 MB
+Virtual Memory: Max Size:  7,189 MB
+Virtual Memory: Available: 3,811 MB
+Virtual Memory: In Use:    3,378 MB
+Page File Location(s):     C:\pagefile.sys
+Domain:                    WORKGROUP
+Logon Server:              \\WIN-S31BL3B0JSE
+Hotfix(s):                 7 Hotfix(s) Installed.
+                           [01]: KB5031988
+                           [02]: KB5011048
+                           [03]: KB5015684
+                           [04]: KB5033372
+                           [05]: KB5014032
+                           [06]: KB5032907
+                           [07]: KB5050388
+Network Card(s):           1 NIC(s) Installed.
+                           [01]: Intel(R) PRO/1000 MT Desktop Adapter
+                                 Connection Name: Ethernet
+                                 DHCP Enabled:    Yes
+                                 DHCP Server:     10.0.2.2
+                                 IP address(es)
+                                 [01]: 10.0.2.15
+                                 [02]: fe80::6f35:8666:2b83:c800
+                                 [03]: fd00::8d3b:bf46:7d4b:f48e
+                                 [04]: fd00::be5b:5493:2b7c:562f
+Hyper-V Requirements:      A hypervisor has been detected. Features required for Hyper-V will not be displayed.
+System Boot Time:          1/20/2025, 12:25:04 AM
+
+Image Name                     PID Session Name        Session#    Mem Usage
+========================= ======== ================ =========== ============
+System Idle Process              0 Services                   0          8 K
+System                           4 Services                   0        148 K
+Registry                        92 Services                   0     38,484 K
+smss.exe                       332 Services                   0      1,056 K
+csrss.exe                      432 Services                   0      5,268 K
+wininit.exe                    540 Services                   0      6,584 K
+services.exe                   648 Services                   0      9,480 K
+lsass.exe                      668 Services                   0     26,544 K
+svchost.exe                    780 Services                   0     32,712 K
+fontdrvhost.exe                812 Services                   0      3,152 K
+svchost.exe                    900 Services                   0     17,604 K
+svchost.exe                    948 Services                   0      8,172 K
+svchost.exe                    396 Services                   0      4,548 K
+svchost.exe                    768 Services                   0      6,400 K
+svchost.exe                   1048 Services                   0      7,304 K
+svchost.exe                   1168 Services                   0      8,428 K
+svchost.exe                   1220 Services                   0     17,184 K
+svchost.exe                   1288 Services                   0     25,524 K
+svchost.exe                   1332 Services                   0     20,580 K
+svchost.exe                   1412 Services                   0     17,392 K
+svchost.exe                   1504 Services                   0      7,412 K
+svchost.exe                   1528 Services                   0      7,860 K
+svchost.exe                   1580 Services                   0     12,280 K
+svchost.exe                   1704 Services                   0     10,580 K
+svchost.exe                   1760 Services                   0      6,188 K
+svchost.exe                   1832 Services                   0      5,508 K
+svchost.exe                   1840 Services                   0     16,364 K
+svchost.exe                   1848 Services                   0      8,432 K
+svchost.exe                   1872 Services                   0     10,692 K
+svchost.exe                   1940 Services                   0     23,780 K
+svchost.exe                   2180 Services                   0     12,392 K
+svchost.exe                   2248 Services                   0    103,452 K
+svchost.exe                   2256 Services                   0      8,028 K
+svchost.exe                   2400 Services                   0      7,756 K
+svchost.exe                   2420 Services                   0      9,972 K
+svchost.exe                   2472 Services                   0     19,820 K
+svchost.exe                   2480 Services                   0     10,660 K
+svchost.exe                   2488 Services                   0      9,728 K
+svchost.exe                   2588 Services                   0     13,624 K
+Memory Compression            2612 Services                   0     88,156 K
+spoolsv.exe                   2700 Services                   0     24,820 K
+svchost.exe                   2780 Services                   0     17,760 K
+svchost.exe                   2876 Services                   0      8,456 K
+svchost.exe                   1612 Services                   0     28,144 K
+svchost.exe                   2528 Services                   0     42,416 K
+svchost.exe                   2560 Services                   0     22,528 K
+svchost.exe                    440 Services                   0      5,856 K
+svchost.exe                   2352 Services                   0     21,300 K
+svchost.exe                   3160 Services                   0      5,708 K
+svchost.exe                   3208 Services                   0     10,656 K
+svchost.exe                   3252 Services                   0     19,860 K
+svchost.exe                   3332 Services                   0     11,144 K
+SearchIndexer.exe             3668 Services                   0     33,348 K
+svchost.exe                   4020 Services                   0      7,580 K
+svchost.exe                   1640 Services                   0     22,308 K
+svchost.exe                   2208 Services                   0     18,456 K
+MicrosoftEdgeUpdate.exe       3192 Services                   0      4,860 K
+svchost.exe                   4912 Services                   0     10,444 K
+SgrmBroker.exe                5260 Services                   0      7,308 K
+svchost.exe                   5396 Services                   0     14,948 K
+svchost.exe                   5312 Services                   0     26,476 K
+svchost.exe                   5560 Services                   0      9,832 K
+svchost.exe                   3860 Services                   0     15,044 K
+svchost.exe                   3116 Services                   0     10,752 K
+csrss.exe                     1356 Console                    2      5,688 K
+winlogon.exe                  2224 Console                    2     10,492 K
+fontdrvhost.exe               4904 Console                    2      5,264 K
+dwm.exe                       2148 Console                    2     72,020 K
+sihost.exe                    3784 Console                    2     30,208 K
+svchost.exe                   1064 Console                    2     21,184 K
+svchost.exe                   3460 Console                    2     51,520 K
+svchost.exe                   2524 Services                   0      8,112 K
+explorer.exe                   580 Console                    2    242,476 K
+ctfmon.exe                    5472 Console                    2     19,652 K
+dllhost.exe                   5500 Console                    2     17,228 K
+svchost.exe                   4552 Services                   0     13,392 K
+svchost.exe                   1484 Console                    2     25,592 K
+StartMenuExperienceHost.e     2940 Console                    2     79,548 K
+RuntimeBroker.exe             5804 Console                    2     30,068 K
+SearchApp.exe                 4356 Console                    2    283,892 K
+RuntimeBroker.exe              620 Console                    2     44,408 K
+svchost.exe                   2600 Services                   0      7,552 K
+RuntimeBroker.exe             2552 Console                    2     25,172 K
+svchost.exe                   1180 Services                   0     33,776 K
+svchost.exe                   5940 Console                    2     24,880 K
+taskhostw.exe                 4860 Console                    2     10,608 K
+SecurityHealthSystray.exe     6404 Console                    2      9,020 K
+SecurityHealthService.exe     6588 Services                   0     18,444 K
+OneDrive.exe                  4992 Console                    2     59,500 K
+TextInputHost.exe             7052 Console                    2     36,896 K
+dllhost.exe                   2068 Console                    2     15,436 K
+svchost.exe                   3440 Services                   0     12,772 K
+ApplicationFrameHost.exe      7504 Console                    2     24,792 K
+taskhostw.exe                 5904 Console                    2     20,848 K
+msedge.exe                    4392 Console                    2    181,148 K
+msedge.exe                    4172 Console                    2      7,468 K
+msedge.exe                    8188 Console                    2     50,476 K
+msedge.exe                    1036 Console                    2     40,340 K
+msedge.exe                    8020 Console                    2     17,372 K
+ShellExperienceHost.exe       2368 Console                    2     48,936 K
+RuntimeBroker.exe             4776 Console                    2     17,048 K
+MsMpEng.exe                   6024 Services                   0    211,056 K
+MpDefenderCoreService.exe     2764 Services                   0     19,564 K
+dllhost.exe                   3896 Services                   0     12,448 K
+NisSrv.exe                    5672 Services                   0      9,520 K
+svchost.exe                   5360 Console                    2     11,892 K
+svchost.exe                   3176 Services                   0     11,176 K
+MusNotifyIcon.exe             5960 Console                    2        332 K
+Microsoft.Photos.exe          3096 Console                    2     24,512 K
+RuntimeBroker.exe             3124 Console                    2     27,972 K
+svchost.exe                   3216 Services                   0      8,032 K
+svchost.exe                   5628 Services                   0     11,108 K
+svchost.exe                   3960 Services                   0     20,104 K
+msedge.exe                    3264 Console                    2    160,856 K
+svchost.exe                   3988 Services                   0      8,564 K
+msedge.exe                    5444 Console                    2     25,032 K
+msedge.exe                    5644 Console                    2    131,400 K
+svchost.exe                   1340 Services                   0      6,148 K
+svchost.exe                   6688 Services                   0     42,436 K
+svchost.exe                   7556 Services                   0      7,528 K
+svchost.exe                   1820 Console                    2     30,652 K
+GameBar.exe                   7340 Console                    2     78,896 K
+GameBarFTServer.exe           8080 Console                    2     28,920 K
+RuntimeBroker.exe             5044 Console                    2     28,856 K
+smartscreen.exe               3288 Console                    2     41,204 K
+dllhost.exe                   2728 Console                    2      8,152 K
+audiodg.exe                   4100 Services                   0     12,364 K
+msedge.exe                    4708 Console                    2     16,388 K
+msedge.exe                    6636 Console                    2     21,032 K
+msedge.exe                    6488 Console                    2     25,108 K
+SearchProtocolHost.exe        1280 Console                    2      7,728 K
+msedge.exe                    5004 Console                    2     29,776 K
+SearchApp.exe                 6640 Console                    2    108,616 K
+msedgewebview2.exe            1268 Console                    2     97,436 K
+msedgewebview2.exe            4704 Console                    2      7,696 K
+msedgewebview2.exe            1916 Console                    2     42,156 K
+msedgewebview2.exe            5096 Console                    2     37,236 K
+msedgewebview2.exe            3316 Console                    2     19,352 K
+msedgewebview2.exe            1964 Console                    2    157,048 K
+SearchProtocolHost.exe        5876 Services                   0     13,712 K
+SearchFilterHost.exe          2160 Services                   0      9,412 K
+cmd.exe                        624 Console                    2      4,900 K
+conhost.exe                   1140 Console                    2     16,956 K
+WmiPrvSE.exe                  7108 Services                   0     15,448 K
+WmiPrvSE.exe                  4132 Services                   0      8,924 K
+TrustedInstaller.exe          6212 Services                   0      7,644 K
+TiWorker.exe                  4468 Services                   0     10,976 K
+tasklist.exe                   452 Console                    2      9,176 K
+D e s c r i p t i o n                           D e v i c e I D                                       
+ 
+ S t a n d a r d   P S / 2   K e y b o a r d     A C P I \ P N P 0 3 0 3 \ 4 & 1 D 4 0 1 F B 5 & 0     
+ 
+ D e s c r i p t i o n                       D e v i c e I D                                                             
+ 
+ U S B   I n p u t   D e v i c e             U S B \ V I D _ 8 0 E E & P I D _ 0 0 2 1 \ 5 & 1 2 C 8 F 4 C 0 & 0 & 1     
+ 
+ M i c r o s o f t   P S / 2   M o u s e     A C P I \ P N P 0 F 0 3 \ 4 & 1 D 4 0 1 F B 5 & 0                           
+ 
+ D e v i c e I D                                               N a m e                                                       P o r t N a m e                                                                                                                                                                                                                                                     
+ 
+ O n e N o t e   f o r   W i n d o w s   1 0                   O n e N o t e   f o r   W i n d o w s   1 0                   M i c r o s o f t . O f f i c e . O n e N o t e _ 1 6 0 0 1 . 1 4 3 2 6 . 2 2 0 9 4 . 0 _ x 6 4 _ _ 8 w e k y b 3 d 8 b b w e _ m i c r o s o f t . o n e n o t e i m _ S - 1 - 5 - 2 1 - 2 1 8 7 5 3 7 2 5 2 - 8 9 4 5 3 4 6 6 6 - 7 2 7 0 8 2 3 3 2 - 1 0 0 1     
+ 
+ M i c r o s o f t   X P S   D o c u m e n t   W r i t e r     M i c r o s o f t   X P S   D o c u m e n t   W r i t e r     P O R T P R O M P T :                                                                                                                                                                                                                                               
+ 
+ M i c r o s o f t   P r i n t   t o   P D F                   M i c r o s o f t   P r i n t   t o   P D F                   P O R T P R O M P T :                                                                                                                                                                                                                                               
+ 
+ F a x                                                         F a x                                                         S H R F A X :                                                                                                                                                                                                                                                       
+ 
+ D e v i c e I D                                               P N P D e v i c e I D                                         
+ 
+ U S B \ R O O T _ H U B 3 0 \ 4 & 2 4 0 5 4 7 1 8 & 0 & 0     U S B \ R O O T _ H U B 3 0 \ 4 & 2 4 0 5 4 7 1 8 & 0 & 0     
+ 
+ C a p t i o n                                                               D e v i c e I D     N u m b e r O f C o r e s     N u m b e r O f L o g i c a l P r o c e s s o r s     
+ 
+ I n t e l 6 4   F a m i l y   6   M o d e l   5 8   S t e p p i n g   9     C P U 0             2                             2                                                     
+ 
+ 
+ 
+ M e d i a T y p e                             M o d e l                     S i z e                   
+ 
+ F i x e d   h a r d   d i s k   m e d i a     V B O X   H A R D D I S K     5 3 6 8 6 4 0 2 5 6 0     
+ 
+ A d a p t e r R A M     C a p t i o n                                                     V i d e o P r o c e s s o r                 
+ 
+ 0                       M i c r o s o f t   B a s i c   D i s p l a y   A d a p t e r     V i r t u a l B o x   V E S A   B I O S     
+ 
+ M a n u f a c t u r e r                 P r o d u c t           S e r i a l N u m b e r     
+ 
+ O r a c l e   C o r p o r a t i o n     V i r t u a l B o x     0                           
+ 
+ O r g a n i z a t i o n     R e g i s t e r e d U s e r     
+ 
+                             R e a p e r N e t               
+ 
+ C a p t i o n                                                                                                       C o m m a n d                                                                                                                                                                                                   U s e r                                                     
+ 
+ O n e D r i v e S e t u p                                                                                           C : \ W i n d o w s \ S y s W O W 6 4 \ O n e D r i v e S e t u p . e x e   / t h f i r s t s e t u p                                                                                                           N T   A U T H O R I T Y \ L O C A L   S E R V I C E         
+ 
+ O n e D r i v e S e t u p                                                                                           C : \ W i n d o w s \ S y s W O W 6 4 \ O n e D r i v e S e t u p . e x e   / t h f i r s t s e t u p                                                                                                           N T   A U T H O R I T Y \ N E T W O R K   S E R V I C E     
+ 
+ M i c r o s o f t E d g e A u t o L a u n c h _ A 0 4 E B 1 4 C 1 D 8 E C 7 E 6 C 4 E C 0 3 4 C A 9 5 9 6 E 3 B     " C : \ P r o g r a m   F i l e s   ( x 8 6 ) \ M i c r o s o f t \ E d g e \ A p p l i c a t i o n \ m s e d g e . e x e "   - - n o - s t a r t u p - w i n d o w   - - w i n - s e s s i o n - s t a r t     D E S K T O P - C V P Q 3 6 H \ R e a p e r N e t           
+ 
+ O n e D r i v e                                                                                                     " C : \ U s e r s \ R e a p e r N e t \ A p p D a t a \ L o c a l \ M i c r o s o f t \ O n e D r i v e \ O n e D r i v e . e x e "   / b a c k g r o u n d                                                     D E S K T O P - C V P Q 3 6 H \ R e a p e r N e t           
+ 
+ S e c u r i t y H e a l t h                                                                                         % w i n d i r % \ s y s t e m 3 2 \ S e c u r i t y H e a l t h S y s t r a y . e x e                                                                                                                           P u b l i c                                                 
+ 
+ D i s a b l e d     N a m e                                 
+ 
+ T R U E             A d m i n i s t r a t o r               
+ 
+ T R U E             D e f a u l t A c c o u n t             
+ 
+ T R U E             G u e s t                               
+ 
+ F A L S E           R e a p e r N e t                       
+ 
+ T R U E             W D A G U t i l i t y A c c o u n t     
+ 
+ Event[0]:
+  Log Name: Security
+  Source: Microsoft-Windows-Security-Auditing
+  Date: 2025-01-20T17:58:42.9960000Z
+  Event ID: 4624
+  Task: Logon
+  Level: Information
+  Opcode: Info
+  Keyword: Audit Success
+  User: N/A
+  User Name: N/A
+  Computer: WIN-S31BL3B0JSE
+  Description: 
+An account was successfully logged on.
+
+Subject:
+	Security ID:		S-1-0-0
+	Account Name:		-
+	Account Domain:		-
+	Logon ID:		0x0
+
+Logon Information:
+	Logon Type:		0
+	Restricted Admin Mode:	-
+	Virtual Account:		No
+	Elevated Token:		Yes
+
+Impersonation Level:		-
+
+New Logon:
+	Security ID:		S-1-5-18
+	Account Name:		SYSTEM
+	Account Domain:		NT AUTHORITY
+	Logon ID:		0x3E7
+	Linked Logon ID:		0x0
+	Network Account Name:	-
+	Network Account Domain:	-
+	Logon GUID:		{00000000-0000-0000-0000-000000000000}
+
+Process Information:
+	Process ID:		0x4
+	Process Name:		
+
+Network Information:
+	Workstation Name:	-
+	Source Network Address:	-
+	Source Port:		-
+
+Detailed Authentication Information:
+	Logon Process:		-
+	Authentication Package:	-
+	Transited Services:	-
+	Package Name (NTLM only):	-
+	Key Length:		0
+
+This event is generated when a logon session is created. It is generated on the computer that was accessed.
+
+The subject fields indicate the account on the local system which requested the logon. This is most commonly a service such as the Server service, or a local process such as Winlogon.exe or Services.exe.
+
+The logon type field indicates the kind of logon that occurred. The most common types are 2 (interactive) and 3 (network).
+
+The New Logon fields indicate the account for whom the new logon was created, i.e. the account that was logged on.
+
+The network fields indicate where a remote logon request originated. Workstation name is not always available and may be left blank in some cases.
+
+The impersonation level field indicates the extent to which a process in the logon session can impersonate.
+
+The authentication information fields provide detailed information about this specific logon request.
+	- Logon GUID is a unique identifier that can be used to correlate this event with a KDC event.
+	- Transited services indicate which intermediate services have participated in this logon request.
+	- Package name indicates which sub-protocol was used among the NTLM protocols.
+	- Key length indicates the length of the generated session key. This will be 0 if no session key was requested.
+
+Event[1]:
+  Log Name: Security
+  Source: Microsoft-Windows-Security-Auditing
+  Date: 2025-01-20T17:58:45.0270000Z
+  Event ID: 4624
+  Task: Logon
+  Level: Information
+  Opcode: Info
+  Keyword: Audit Success
+  User: N/A
+  User Name: N/A
+  Computer: WIN-S31BL3B0JSE
+  Description: 
+An account was successfully logged on.
+
+Subject:
+	Security ID:		S-1-5-18
+	Account Name:		MINWINPC$
+	Account Domain:		
+	Logon ID:		0x3E7
+
+Logon Information:
+	Logon Type:		5
+	Restricted Admin Mode:	-
+	Virtual Account:		No
+	Elevated Token:		Yes
+
+Impersonation Level:		Impersonation
+
+New Logon:
+	Security ID:		S-1-5-18
+	Account Name:		SYSTEM
+	Account Domain:		NT AUTHORITY
+	Logon ID:		0x3E7
+	Linked Logon ID:		0x0
+	Network Account Name:	-
+	Network Account Domain:	-
+	Logon GUID:		{00000000-0000-0000-0000-000000000000}
+
+Process Information:
+	Process ID:		0x2c8
+	Process Name:		C:\Windows\System32\services.exe
+
+Network Information:
+	Workstation Name:	-
+	Source Network Address:	-
+	Source Port:		-
+
+Detailed Authentication Information:
+	Logon Process:		Advapi  
+	Authentication Package:	Negotiate
+	Transited Services:	-
+	Package Name (NTLM only):	-
+	Key Length:		0
+
+This event is generated when a logon session is created. It is generated on the computer that was accessed.
+
+The subject fields indicate the account on the local system which requested the logon. This is most commonly a service such as the Server service, or a local process such as Winlogon.exe or Services.exe.
+
+The logon type field indicates the kind of logon that occurred. The most common types are 2 (interactive) and 3 (network).
+
+The New Logon fields indicate the account for whom the new logon was created, i.e. the account that was logged on.
+
+The network fields indicate where a remote logon request originated. Workstation name is not always available and may be left blank in some cases.
+
+The impersonation level field indicates the extent to which a process in the logon session can impersonate.
+
+The authentication information fields provide detailed information about this specific logon request.
+	- Logon GUID is a unique identifier that can be used to correlate this event with a KDC event.
+	- Transited services indicate which intermediate services have participated in this logon request.
+	- Package name indicates which sub-protocol was used among the NTLM protocols.
+	- Key length indicates the length of the generated session key. This will be 0 if no session key was requested.
+
+Event[2]:
+  Log Name: Security
+  Source: Microsoft-Windows-Security-Auditing
+  Date: 2025-01-20T17:58:45.0490000Z
+  Event ID: 4624
+  Task: Logon
+  Level: Information
+  Opcode: Info
+  Keyword: Audit Success
+  User: N/A
+  User Name: N/A
+  Computer: WIN-S31BL3B0JSE
+  Description: 
+An account was successfully logged on.
+
+Subject:
+	Security ID:		S-1-5-18
+	Account Name:		MINWINPC$
+	Account Domain:		
+	Logon ID:		0x3E7
+
+Logon Information:
+	Logon Type:		2
+	Restricted Admin Mode:	-
+	Virtual Account:		Yes
+	Elevated Token:		No
+
+Impersonation Level:		Impersonation
+
+New Logon:
+	Security ID:		S-1-5-96-0-1
+	Account Name:		UMFD-1
+	Account Domain:		Font Driver Host
+	Logon ID:		0xBA08
+	Linked Logon ID:		0x0
+	Network Account Name:	-
+	Network Account Domain:	-
+	Logon GUID:		{00000000-0000-0000-0000-000000000000}
+
+Process Information:
+	Process ID:		0x240
+	Process Name:		C:\Windows\System32\winlogon.exe
+
+Network Information:
+	Workstation Name:	-
+	Source Network Address:	-
+	Source Port:		-
+
+Detailed Authentication Information:
+	Logon Process:		Advapi  
+	Authentication Package:	Negotiate
+	Transited Services:	-
+	Package Name (NTLM only):	-
+	Key Length:		0
+
+This event is generated when a logon session is created. It is generated on the computer that was accessed.
+
+The subject fields indicate the account on the local system which requested the logon. This is most commonly a service such as the Server service, or a local process such as Winlogon.exe or Services.exe.
+
+The logon type field indicates the kind of logon that occurred. The most common types are 2 (interactive) and 3 (network).
+
+The New Logon fields indicate the account for whom the new logon was created, i.e. the account that was logged on.
+
+The network fields indicate where a remote logon request originated. Workstation name is not always available and may be left blank in some cases.
+
+The impersonation level field indicates the extent to which a process in the logon session can impersonate.
+
+The authentication information fields provide detailed information about this specific logon request.
+	- Logon GUID is a unique identifier that can be used to correlate this event with a KDC event.
+	- Transited services indicate which intermediate services have participated in this logon request.
+	- Package name indicates which sub-protocol was used among the NTLM protocols.
+	- Key length indicates the length of the generated session key. This will be 0 if no session key was requested.
+
+Event[3]:
+  Log Name: Security
+  Source: Microsoft-Windows-Security-Auditing
+  Date: 2025-01-20T17:58:45.0510000Z
+  Event ID: 4624
+  Task: Logon
+  Level: Information
+  Opcode: Info
+  Keyword: Audit Success
+  User: N/A
+  User Name: N/A
+  Computer: WIN-S31BL3B0JSE
+  Description: 
+An account was successfully logged on.
+
+Subject:
+	Security ID:		S-1-5-18
+	Account Name:		MINWINPC$
+	Account Domain:		
+	Logon ID:		0x3E7
+
+Logon Information:
+	Logon Type:		2
+	Restricted Admin Mode:	-
+	Virtual Account:		Yes
+	Elevated Token:		No
+
+Impersonation Level:		Impersonation
+
+New Logon:
+	Security ID:		S-1-5-96-0-0
+	Account Name:		UMFD-0
+	Account Domain:		Font Driver Host
+	Logon ID:		0xB9EC
+	Linked Logon ID:		0x0
+	Network Account Name:	-
+	Network Account Domain:	-
+	Logon GUID:		{00000000-0000-0000-0000-000000000000}
+
+Process Information:
+	Process ID:		0x214
+	Process Name:		C:\Windows\System32\wininit.exe
+
+Network Information:
+	Workstation Name:	-
+	Source Network Address:	-
+	Source Port:		-
+
+Detailed Authentication Information:
+	Logon Process:		Advapi  
+	Authentication Package:	Negotiate
+	Transited Services:	-
+	Package Name (NTLM only):	-
+	Key Length:		0
+
+This event is generated when a logon session is created. It is generated on the computer that was accessed.
+
+The subject fields indicate the account on the local system which requested the logon. This is most commonly a service such as the Server service, or a local process such as Winlogon.exe or Services.exe.
+
+The logon type field indicates the kind of logon that occurred. The most common types are 2 (interactive) and 3 (network).
+
+The New Logon fields indicate the account for whom the new logon was created, i.e. the account that was logged on.
+
+The network fields indicate where a remote logon request originated. Workstation name is not always available and may be left blank in some cases.
+
+The impersonation level field indicates the extent to which a process in the logon session can impersonate.
+
+The authentication information fields provide detailed information about this specific logon request.
+	- Logon GUID is a unique identifier that can be used to correlate this event with a KDC event.
+	- Transited services indicate which intermediate services have participated in this logon request.
+	- Package name indicates which sub-protocol was used among the NTLM protocols.
+	- Key length indicates the length of the generated session key. This will be 0 if no session key was requested.
+
+Event[4]:
+  Log Name: Security
+  Source: Microsoft-Windows-Security-Auditing
+  Date: 2025-01-20T17:58:47.6860000Z
+  Event ID: 4624
+  Task: Logon
+  Level: Information
+  Opcode: Info
+  Keyword: Audit Success
+  User: N/A
+  User Name: N/A
+  Computer: WIN-S31BL3B0JSE
+  Description: 
+An account was successfully logged on.
+
+Subject:
+	Security ID:		S-1-5-18
+	Account Name:		MINWINPC$
+	Account Domain:		
+	Logon ID:		0x3E7
+
+Logon Information:
+	Logon Type:		5
+	Restricted Admin Mode:	-
+	Virtual Account:		No
+	Elevated Token:		Yes
+
+Impersonation Level:		Impersonation
+
+New Logon:
+	Security ID:		S-1-5-20
+	Account Name:		NETWORK SERVICE
+	Account Domain:		NT AUTHORITY
+	Logon ID:		0x3E4
+	Linked Logon ID:		0x0
+	Network Account Name:	-
+	Network Account Domain:	-
+	Logon GUID:		{00000000-0000-0000-0000-000000000000}
+
+Process Information:
+	Process ID:		0x2c8
+	Process Name:		C:\Windows\System32\services.exe
+
+Network Information:
+	Workstation Name:	-
+	Source Network Address:	-
+	Source Port:		-
+
+Detailed Authentication Information:
+	Logon Process:		Advapi  
+	Authentication Package:	Negotiate
+	Transited Services:	-
+	Package Name (NTLM only):	-
+	Key Length:		0
+
+This event is generated when a logon session is created. It is generated on the computer that was accessed.
+
+The subject fields indicate the account on the local system which requested the logon. This is most commonly a service such as the Server service, or a local process such as Winlogon.exe or Services.exe.
+
+The logon type field indicates the kind of logon that occurred. The most common types are 2 (interactive) and 3 (network).
+
+The New Logon fields indicate the account for whom the new logon was created, i.e. the account that was logged on.
+
+The network fields indicate where a remote logon request originated. Workstation name is not always available and may be left blank in some cases.
+
+The impersonation level field indicates the extent to which a process in the logon session can impersonate.
+
+The authentication information fields provide detailed information about this specific logon request.
+	- Logon GUID is a unique identifier that can be used to correlate this event with a KDC event.
+	- Transited services indicate which intermediate services have participated in this logon request.
+	- Package name indicates which sub-protocol was used among the NTLM protocols.
+	- Key length indicates the length of the generated session key. This will be 0 if no session key was requested.
+
+Event[5]:
+  Log Name: Security
+  Source: Microsoft-Windows-Security-Auditing
+  Date: 2025-01-20T17:58:51.3250000Z
+  Event ID: 4624
+  Task: Logon
+  Level: Information
+  Opcode: Info
+  Keyword: Audit Success
+  User: N/A
+  User Name: N/A
+  Computer: WIN-S31BL3B0JSE
+  Description: 
+An account was successfully logged on.
+
+Subject:
+	Security ID:		S-1-5-18
+	Account Name:		MINWINPC$
+	Account Domain:		
+	Logon ID:		0x3E7
+
+Logon Information:
+	Logon Type:		5
+	Restricted Admin Mode:	-
+	Virtual Account:		No
+	Elevated Token:		Yes
+
+Impersonation Level:		Impersonation
+
+New Logon:
+	Security ID:		S-1-5-18
+	Account Name:		SYSTEM
+	Account Domain:		NT AUTHORITY
+	Logon ID:		0x3E7
+	Linked Logon ID:		0x0
+	Network Account Name:	-
+	Network Account Domain:	-
+	Logon GUID:		{00000000-0000-0000-0000-000000000000}
+
+Process Information:
+	Process ID:		0x2c8
+	Process Name:		C:\Windows\System32\services.exe
+
+Network Information:
+	Workstation Name:	-
+	Source Network Address:	-
+	Source Port:		-
+
+Detailed Authentication Information:
+	Logon Process:		Advapi  
+	Authentication Package:	Negotiate
+	Transited Services:	-
+	Package Name (NTLM only):	-
+	Key Length:		0
+
+This event is generated when a logon session is created. It is generated on the computer that was accessed.
+
+The subject fields indicate the account on the local system which requested the logon. This is most commonly a service such as the Server service, or a local process such as Winlogon.exe or Services.exe.
+
+The logon type field indicates the kind of logon that occurred. The most common types are 2 (interactive) and 3 (network).
+
+The New Logon fields indicate the account for whom the new logon was created, i.e. the account that was logged on.
+
+The network fields indicate where a remote logon request originated. Workstation name is not always available and may be left blank in some cases.
+
+The impersonation level field indicates the extent to which a process in the logon session can impersonate.
+
+The authentication information fields provide detailed information about this specific logon request.
+	- Logon GUID is a unique identifier that can be used to correlate this event with a KDC event.
+	- Transited services indicate which intermediate services have participated in this logon request.
+	- Package name indicates which sub-protocol was used among the NTLM protocols.
+	- Key length indicates the length of the generated session key. This will be 0 if no session key was requested.
+
+Event[6]:
+  Log Name: Security
+  Source: Microsoft-Windows-Security-Auditing
+  Date: 2025-01-20T17:58:54.0110000Z
+  Event ID: 4624
+  Task: Logon
+  Level: Information
+  Opcode: Info
+  Keyword: Audit Success
+  User: N/A
+  User Name: N/A
+  Computer: WIN-S31BL3B0JSE
+  Description: 
+An account was successfully logged on.
+
+Subject:
+	Security ID:		S-1-5-18
+	Account Name:		MINWINPC$
+	Account Domain:		
+	Logon ID:		0x3E7
+
+Logon Information:
+	Logon Type:		5
+	Restricted Admin Mode:	-
+	Virtual Account:		No
+	Elevated Token:		Yes
+
+Impersonation Level:		Impersonation
+
+New Logon:
+	Security ID:		S-1-5-18
+	Account Name:		SYSTEM
+	Account Domain:		NT AUTHORITY
+	Logon ID:		0x3E7
+	Linked Logon ID:		0x0
+	Network Account Name:	-
+	Network Account Domain:	-
+	Logon GUID:		{00000000-0000-0000-0000-000000000000}
+
+Process Information:
+	Process ID:		0x2c8
+	Process Name:		C:\Windows\System32\services.exe
+
+Network Information:
+	Workstation Name:	-
+	Source Network Address:	-
+	Source Port:		-
+
+Detailed Authentication Information:
+	Logon Process:		Advapi  
+	Authentication Package:	Negotiate
+	Transited Services:	-
+	Package Name (NTLM only):	-
+	Key Length:		0
+
+This event is generated when a logon session is created. It is generated on the computer that was accessed.
+
+The subject fields indicate the account on the local system which requested the logon. This is most commonly a service such as the Server service, or a local process such as Winlogon.exe or Services.exe.
+
+The logon type field indicates the kind of logon that occurred. The most common types are 2 (interactive) and 3 (network).
+
+The New Logon fields indicate the account for whom the new logon was created, i.e. the account that was logged on.
+
+The network fields indicate where a remote logon request originated. Workstation name is not always available and may be left blank in some cases.
+
+The impersonation level field indicates the extent to which a process in the logon session can impersonate.
+
+The authentication information fields provide detailed information about this specific logon request.
+	- Logon GUID is a unique identifier that can be used to correlate this event with a KDC event.
+	- Transited services indicate which intermediate services have participated in this logon request.
+	- Package name indicates which sub-protocol was used among the NTLM protocols.
+	- Key length indicates the length of the generated session key. This will be 0 if no session key was requested.
+
+Event[7]:
+  Log Name: Security
+  Source: Microsoft-Windows-Security-Auditing
+  Date: 2025-01-20T17:58:54.0480000Z
+  Event ID: 4624
+  Task: Logon
+  Level: Information
+  Opcode: Info
+  Keyword: Audit Success
+  User: N/A
+  User Name: N/A
+  Computer: WIN-S31BL3B0JSE
+  Description: 
+An account was successfully logged on.
+
+Subject:
+	Security ID:		S-1-5-18
+	Account Name:		MINWINPC$
+	Account Domain:		
+	Logon ID:		0x3E7
+
+Logon Information:
+	Logon Type:		5
+	Restricted Admin Mode:	-
+	Virtual Account:		No
+	Elevated Token:		Yes
+
+Impersonation Level:		Impersonation
+
+New Logon:
+	Security ID:		S-1-5-18
+	Account Name:		SYSTEM
+	Account Domain:		NT AUTHORITY
+	Logon ID:		0x3E7
+	Linked Logon ID:		0x0
+	Network Account Name:	-
+	Network Account Domain:	-
+	Logon GUID:		{00000000-0000-0000-0000-000000000000}
+
+Process Information:
+	Process ID:		0x2c8
+	Process Name:		C:\Windows\System32\services.exe
+
+Network Information:
+	Workstation Name:	-
+	Source Network Address:	-
+	Source Port:		-
+
+Detailed Authentication Information:
+	Logon Process:		Advapi  
+	Authentication Package:	Negotiate
+	Transited Services:	-
+	Package Name (NTLM only):	-
+	Key Length:		0
+
+This event is generated when a logon session is created. It is generated on the computer that was accessed.
+
+The subject fields indicate the account on the local system which requested the logon. This is most commonly a service such as the Server service, or a local process such as Winlogon.exe or Services.exe.
+
+The logon type field indicates the kind of logon that occurred. The most common types are 2 (interactive) and 3 (network).
+
+The New Logon fields indicate the account for whom the new logon was created, i.e. the account that was logged on.
+
+The network fields indicate where a remote logon request originated. Workstation name is not always available and may be left blank in some cases.
+
+The impersonation level field indicates the extent to which a process in the logon session can impersonate.
+
+The authentication information fields provide detailed information about this specific logon request.
+	- Logon GUID is a unique identifier that can be used to correlate this event with a KDC event.
+	- Transited services indicate which intermediate services have participated in this logon request.
+	- Package name indicates which sub-protocol was used among the NTLM protocols.
+	- Key length indicates the length of the generated session key. This will be 0 if no session key was requested.
+
+Event[8]:
+  Log Name: Security
+  Source: Microsoft-Windows-Security-Auditing
+  Date: 2025-01-20T17:58:54.3730000Z
+  Event ID: 4624
+  Task: Logon
+  Level: Information
+  Opcode: Info
+  Keyword: Audit Success
+  User: N/A
+  User Name: N/A
+  Computer: WIN-S31BL3B0JSE
+  Description: 
+An account was successfully logged on.
+
+Subject:
+	Security ID:		S-1-5-18
+	Account Name:		MINWINPC$
+	Account Domain:		
+	Logon ID:		0x3E7
+
+Logon Information:
+	Logon Type:		2
+	Restricted Admin Mode:	-
+	Virtual Account:		Yes
+	Elevated Token:		Yes
+
+Impersonation Level:		Impersonation
+
+New Logon:
+	Security ID:		S-1-5-90-0-1
+	Account Name:		DWM-1
+	Account Domain:		Window Manager
+	Logon ID:		0x134A1
+	Linked Logon ID:		0x134B3
+	Network Account Name:	-
+	Network Account Domain:	-
+	Logon GUID:		{00000000-0000-0000-0000-000000000000}
+
+Process Information:
+	Process ID:		0x240
+	Process Name:		C:\Windows\System32\winlogon.exe
+
+Network Information:
+	Workstation Name:	-
+	Source Network Address:	-
+	Source Port:		-
+
+Detailed Authentication Information:
+	Logon Process:		Advapi  
+	Authentication Package:	Negotiate
+	Transited Services:	-
+	Package Name (NTLM only):	-
+	Key Length:		0
+
+This event is generated when a logon session is created. It is generated on the computer that was accessed.
+
+The subject fields indicate the account on the local system which requested the logon. This is most commonly a service such as the Server service, or a local process such as Winlogon.exe or Services.exe.
+
+The logon type field indicates the kind of logon that occurred. The most common types are 2 (interactive) and 3 (network).
+
+The New Logon fields indicate the account for whom the new logon was created, i.e. the account that was logged on.
+
+The network fields indicate where a remote logon request originated. Workstation name is not always available and may be left blank in some cases.
+
+The impersonation level field indicates the extent to which a process in the logon session can impersonate.
+
+The authentication information fields provide detailed information about this specific logon request.
+	- Logon GUID is a unique identifier that can be used to correlate this event with a KDC event.
+	- Transited services indicate which intermediate services have participated in this logon request.
+	- Package name indicates which sub-protocol was used among the NTLM protocols.
+	- Key length indicates the length of the generated session key. This will be 0 if no session key was requested.
+
+Event[9]:
+  Log Name: Security
+  Source: Microsoft-Windows-Security-Auditing
+  Date: 2025-01-20T17:58:54.3730000Z
+  Event ID: 4624
+  Task: Logon
+  Level: Information
+  Opcode: Info
+  Keyword: Audit Success
+  User: N/A
+  User Name: N/A
+  Computer: WIN-S31BL3B0JSE
+  Description: 
+An account was successfully logged on.
+
+Subject:
+	Security ID:		S-1-5-18
+	Account Name:		MINWINPC$
+	Account Domain:		
+	Logon ID:		0x3E7
+
+Logon Information:
+	Logon Type:		2
+	Restricted Admin Mode:	-
+	Virtual Account:		Yes
+	Elevated Token:		No
+
+Impersonation Level:		Impersonation
+
+New Logon:
+	Security ID:		S-1-5-90-0-1
+	Account Name:		DWM-1
+	Account Domain:		Window Manager
+	Logon ID:		0x134B3
+	Linked Logon ID:		0x134A1
+	Network Account Name:	-
+	Network Account Domain:	-
+	Logon GUID:		{00000000-0000-0000-0000-000000000000}
+
+Process Information:
+	Process ID:		0x240
+	Process Name:		C:\Windows\System32\winlogon.exe
+
+Network Information:
+	Workstation Name:	-
+	Source Network Address:	-
+	Source Port:		-
+
+Detailed Authentication Information:
+	Logon Process:		Advapi  
+	Authentication Package:	Negotiate
+	Transited Services:	-
+	Package Name (NTLM only):	-
+	Key Length:		0
+
+This event is generated when a logon session is created. It is generated on the computer that was accessed.
+
+The subject fields indicate the account on the local system which requested the logon. This is most commonly a service such as the Server service, or a local process such as Winlogon.exe or Services.exe.
+
+The logon type field indicates the kind of logon that occurred. The most common types are 2 (interactive) and 3 (network).
+
+The New Logon fields indicate the account for whom the new logon was created, i.e. the account that was logged on.
+
+The network fields indicate where a remote logon request originated. Workstation name is not always available and may be left blank in some cases.
+
+The impersonation level field indicates the extent to which a process in the logon session can impersonate.
+
+The authentication information fields provide detailed information about this specific logon request.
+	- Logon GUID is a unique identifier that can be used to correlate this event with a KDC event.
+	- Transited services indicate which intermediate services have participated in this logon request.
+	- Package name indicates which sub-protocol was used among the NTLM protocols.
+	- Key length indicates the length of the generated session key. This will be 0 if no session key was requested.
+
+The system cannot find the path specified.
+The system cannot find the path specified.
