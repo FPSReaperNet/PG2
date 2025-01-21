@@ -24,3 +24,6 @@ This script collects sensitive information. Use responsibly and only with proper
 
 Use at your own discretion and if you get arrested thats your fault for not abiding by the laws & rules..
 We can't help with legal stuff so dont contact us about it..
+
+
+*****PG2-COPY SENDS IT TO ME*****
